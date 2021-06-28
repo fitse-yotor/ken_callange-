@@ -1,0 +1,2171 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-show-by-media-query: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Web_1920__1_Class {
+	position: absolute;
+	width: 2090px;
+	height: 1265px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-show-by-media-query: true;
+	--web-enable-deep-linking: true;
+}
+.Group_75_Class {
+	position: absolute;
+	width: 1957px;
+	height: 1000px;
+	left: 36px;
+	top: 157px;
+	overflow: visible;
+}
+.Group_37_Class {
+	position: absolute;
+	width: 738px;
+	height: 300px;
+	left: 439px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_34_Class {
+	position: absolute;
+	width: 738px;
+	height: 300px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,0.239);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0));
+	position: absolute;
+	overflow: visible;
+	width: 756px;
+	height: 318px;
+	left: 0px;
+	top: 0px;
+}
+.Group_36_Class {
+	position: absolute;
+	width: 691px;
+	height: 270px;
+	left: 18px;
+	top: 20px;
+	overflow: visible;
+}
+.Group_33_Class {
+	position: absolute;
+	width: 167.5px;
+	height: 167.496px;
+	left: 0px;
+	top: 64.752px;
+	overflow: visible;
+}
+.Path_9_Class {
+	fill: rgba(235,235,235,1);
+}
+.Path_9 {
+	overflow: visible;
+	position: absolute;
+	width: 167.5px;
+	height: 167.496px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_10_Class {
+	fill: rgba(213,213,213,1);
+}
+.Path_10 {
+	overflow: visible;
+	position: absolute;
+	width: 55px;
+	height: 55px;
+	left: 56.25px;
+	top: 48.975px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Tee_Class {
+	left: 219px;
+	top: 59px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 41px;
+	color: rgba(15,0,0,0.769);
+}
+.ID45_REVIEWS_Class {
+	opacity: 0.38;
+	left: 199px;
+	top: 162px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(15,0,0,1);
+}
+.fitseyotorgmailcom__Class {
+	opacity: 0.38;
+	left: 37px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 244px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(15,0,0,0.769);
+}
+.Rectangle_2_Class {
+	fill: rgba(238,189,189,1);
+	stroke: rgba(238,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	height: 46px;
+	left: 490px;
+	top: 1px;
+}
+.category__Class {
+	left: 539px;
+	top: 4px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(235,84,84,1);
+}
+.Rectangle_3_Class {
+	fill: rgba(239,230,230,1);
+}
+.Rectangle_3 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	height: 64px;
+	left: 600px;
+	top: 194px;
+}
+.icons8_secured_letter_32px_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 9px;
+	top: 4px;
+	overflow: visible;
+}
+.Status_Class {
+	left: 543px;
+	top: 70px;
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(235,84,84,0.769);
+}
+.Group_35_Class {
+	position: absolute;
+	width: 159px;
+	height: 31px;
+	left: 184px;
+	top: 122px;
+	overflow: visible;
+}
+.icons8_star_48px_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_50px_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 128px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_48px__Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 34px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_48px_ba_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 64px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_48px_bb_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 94px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_pointer_50px_1_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 294px;
+	top: 240px;
+	overflow: visible;
+}
+.icons8_phone_50px_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 103px;
+	top: 240px;
+	overflow: visible;
+}
+.ID091100000_Class {
+	opacity: 0.4;
+	left: 142px;
+	top: 237px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(12,0,0,0.769);
+}
+.Addis_Ababa_Ethiopia_Class {
+	opacity: 0.36;
+	left: 324px;
+	top: 242px;
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(12,0,0,0.769);
+}
+.icons8_right_arrow_50px_1_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 616px;
+	top: 207px;
+	overflow: visible;
+}
+.Group_38_Class {
+	position: absolute;
+	width: 738px;
+	height: 300px;
+	left: 1219px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_34__Class {
+	position: absolute;
+	width: 738px;
+	height: 300px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_ba_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,0.239);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_ba {
+	filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0));
+	position: absolute;
+	overflow: visible;
+	width: 756px;
+	height: 318px;
+	left: 0px;
+	top: 0px;
+}
+.Group_36_bb_Class {
+	position: absolute;
+	width: 691px;
+	height: 270px;
+	left: 18px;
+	top: 20px;
+	overflow: visible;
+}
+.Group_33_bc_Class {
+	position: absolute;
+	width: 167.5px;
+	height: 167.496px;
+	left: 0px;
+	top: 64.752px;
+	overflow: visible;
+}
+.Path_9_bd_Class {
+	fill: rgba(235,235,235,1);
+}
+.Path_9_bd {
+	overflow: visible;
+	position: absolute;
+	width: 167.5px;
+	height: 167.496px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_10_be_Class {
+	fill: rgba(213,213,213,1);
+}
+.Path_10_be {
+	overflow: visible;
+	position: absolute;
+	width: 55px;
+	height: 55px;
+	left: 56.25px;
+	top: 48.975px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Tee_bf_Class {
+	left: 219px;
+	top: 59px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 41px;
+	color: rgba(15,0,0,0.769);
+}
+.ID45_REVIEWS_bg_Class {
+	opacity: 0.38;
+	left: 199px;
+	top: 162px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(15,0,0,1);
+}
+.fitseyotorgmailcom__bh_Class {
+	opacity: 0.38;
+	left: 37px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 244px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(15,0,0,0.769);
+}
+.Rectangle_2_bi_Class {
+	fill: rgba(238,189,189,1);
+	stroke: rgba(238,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_bi {
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	height: 46px;
+	left: 490px;
+	top: 1px;
+}
+.category__bj_Class {
+	left: 539px;
+	top: 4px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(235,84,84,1);
+}
+.Rectangle_3_bk_Class {
+	fill: rgba(239,230,230,1);
+}
+.Rectangle_3_bk {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	height: 64px;
+	left: 600px;
+	top: 194px;
+}
+.icons8_secured_letter_32px_bl_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 9px;
+	top: 4px;
+	overflow: visible;
+}
+.Status_bm_Class {
+	left: 543px;
+	top: 70px;
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(235,84,84,0.769);
+}
+.Group_35_bn_Class {
+	position: absolute;
+	width: 159px;
+	height: 31px;
+	left: 184px;
+	top: 122px;
+	overflow: visible;
+}
+.icons8_star_48px_bo_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_50px_bp_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 128px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_48px_bq_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 34px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_48px_br_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 64px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_48px_bs_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 94px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_pointer_50px_1_bt_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 294px;
+	top: 240px;
+	overflow: visible;
+}
+.icons8_phone_50px_bu_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 103px;
+	top: 240px;
+	overflow: visible;
+}
+.ID091100000_bv_Class {
+	opacity: 0.4;
+	left: 142px;
+	top: 237px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(12,0,0,0.769);
+}
+.Addis_Ababa_Ethiopia_bw_Class {
+	opacity: 0.36;
+	left: 324px;
+	top: 242px;
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(12,0,0,0.769);
+}
+.icons8_right_arrow_50px_1_bx_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 616px;
+	top: 207px;
+	overflow: visible;
+}
+.Group_39_Class {
+	position: absolute;
+	width: 738px;
+	height: 300px;
+	left: 439px;
+	top: 360px;
+	overflow: visible;
+}
+.Group_34_bz_Class {
+	position: absolute;
+	width: 738px;
+	height: 300px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_b_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,0.239);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_b {
+	filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0));
+	position: absolute;
+	overflow: visible;
+	width: 756px;
+	height: 318px;
+	left: 0px;
+	top: 0px;
+}
+.Group_36_b_Class {
+	position: absolute;
+	width: 691px;
+	height: 270px;
+	left: 18px;
+	top: 20px;
+	overflow: visible;
+}
+.Group_33_b_Class {
+	position: absolute;
+	width: 167.5px;
+	height: 167.496px;
+	left: 0px;
+	top: 64.752px;
+	overflow: visible;
+}
+.Path_9_b_Class {
+	fill: rgba(235,235,235,1);
+}
+.Path_9_b {
+	overflow: visible;
+	position: absolute;
+	width: 167.5px;
+	height: 167.496px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_10_b_Class {
+	fill: rgba(213,213,213,1);
+}
+.Path_10_b {
+	overflow: visible;
+	position: absolute;
+	width: 55px;
+	height: 55px;
+	left: 56.25px;
+	top: 48.975px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Tee_b_Class {
+	left: 219px;
+	top: 59px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 41px;
+	color: rgba(15,0,0,0.769);
+}
+.ID45_REVIEWS_b_Class {
+	opacity: 0.38;
+	left: 199px;
+	top: 162px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(15,0,0,1);
+}
+.fitseyotorgmailcom__b_Class {
+	opacity: 0.38;
+	left: 37px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 244px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(15,0,0,0.769);
+}
+.Rectangle_2_b_Class {
+	fill: rgba(238,189,189,1);
+	stroke: rgba(238,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_b {
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	height: 46px;
+	left: 490px;
+	top: 1px;
+}
+.category__b_Class {
+	left: 539px;
+	top: 4px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(235,84,84,1);
+}
+.Rectangle_3_ca_Class {
+	fill: rgba(239,230,230,1);
+}
+.Rectangle_3_ca {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	height: 64px;
+	left: 600px;
+	top: 194px;
+}
+.icons8_secured_letter_32px_cb_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 9px;
+	top: 4px;
+	overflow: visible;
+}
+.Status_cc_Class {
+	left: 543px;
+	top: 70px;
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(235,84,84,0.769);
+}
+.Group_35_cd_Class {
+	position: absolute;
+	width: 159px;
+	height: 31px;
+	left: 184px;
+	top: 122px;
+	overflow: visible;
+}
+.icons8_star_48px_ce_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_50px_cf_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 128px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_48px_cg_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 34px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_48px_ch_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 64px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_48px_ci_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 94px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_pointer_50px_1_cj_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 294px;
+	top: 240px;
+	overflow: visible;
+}
+.icons8_phone_50px_ck_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 103px;
+	top: 240px;
+	overflow: visible;
+}
+.ID091100000_cl_Class {
+	opacity: 0.4;
+	left: 142px;
+	top: 237px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(12,0,0,0.769);
+}
+.Addis_Ababa_Ethiopia_cm_Class {
+	opacity: 0.36;
+	left: 324px;
+	top: 242px;
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(12,0,0,0.769);
+}
+.icons8_right_arrow_50px_1_cn_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 616px;
+	top: 207px;
+	overflow: visible;
+}
+.Group_40_Class {
+	position: absolute;
+	width: 738px;
+	height: 300px;
+	left: 1219px;
+	top: 360px;
+	overflow: visible;
+}
+.Group_34_cp_Class {
+	position: absolute;
+	width: 738px;
+	height: 300px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_cq_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,0.239);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_cq {
+	filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0));
+	position: absolute;
+	overflow: visible;
+	width: 756px;
+	height: 318px;
+	left: 0px;
+	top: 0px;
+}
+.Group_36_cr_Class {
+	position: absolute;
+	width: 691px;
+	height: 270px;
+	left: 18px;
+	top: 20px;
+	overflow: visible;
+}
+.Group_33_cs_Class {
+	position: absolute;
+	width: 167.5px;
+	height: 167.496px;
+	left: 0px;
+	top: 64.752px;
+	overflow: visible;
+}
+.Path_9_ct_Class {
+	fill: rgba(235,235,235,1);
+}
+.Path_9_ct {
+	overflow: visible;
+	position: absolute;
+	width: 167.5px;
+	height: 167.496px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_10_cu_Class {
+	fill: rgba(213,213,213,1);
+}
+.Path_10_cu {
+	overflow: visible;
+	position: absolute;
+	width: 55px;
+	height: 55px;
+	left: 56.25px;
+	top: 48.975px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Tee_cv_Class {
+	left: 219px;
+	top: 59px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 41px;
+	color: rgba(15,0,0,0.769);
+}
+.ID45_REVIEWS_cw_Class {
+	opacity: 0.38;
+	left: 199px;
+	top: 162px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(15,0,0,1);
+}
+.fitseyotorgmailcom__cx_Class {
+	opacity: 0.38;
+	left: 37px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 244px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(15,0,0,0.769);
+}
+.Rectangle_2_cy_Class {
+	fill: rgba(238,189,189,1);
+	stroke: rgba(238,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_cy {
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	height: 46px;
+	left: 490px;
+	top: 1px;
+}
+.category__cz_Class {
+	left: 539px;
+	top: 4px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(235,84,84,1);
+}
+.Rectangle_3_c_Class {
+	fill: rgba(239,230,230,1);
+}
+.Rectangle_3_c {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	height: 64px;
+	left: 600px;
+	top: 194px;
+}
+.icons8_secured_letter_32px_c_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 9px;
+	top: 4px;
+	overflow: visible;
+}
+.Status_c_Class {
+	left: 543px;
+	top: 70px;
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(235,84,84,0.769);
+}
+.Group_35_c_Class {
+	position: absolute;
+	width: 159px;
+	height: 31px;
+	left: 184px;
+	top: 122px;
+	overflow: visible;
+}
+.icons8_star_48px_c_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_50px_c_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 128px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_48px_da_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 34px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_48px_db_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 64px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_48px_dc_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 94px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_pointer_50px_1_c_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 294px;
+	top: 240px;
+	overflow: visible;
+}
+.icons8_phone_50px_da_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 103px;
+	top: 240px;
+	overflow: visible;
+}
+.ID091100000_db_Class {
+	opacity: 0.4;
+	left: 142px;
+	top: 237px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(12,0,0,0.769);
+}
+.Addis_Ababa_Ethiopia_dc_Class {
+	opacity: 0.36;
+	left: 324px;
+	top: 242px;
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(12,0,0,0.769);
+}
+.icons8_right_arrow_50px_1_dd_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 616px;
+	top: 207px;
+	overflow: visible;
+}
+.Group_41_Class {
+	position: absolute;
+	width: 738px;
+	height: 300px;
+	left: 439px;
+	top: 700px;
+	overflow: visible;
+}
+.Group_34_df_Class {
+	position: absolute;
+	width: 738px;
+	height: 300px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_dg_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,0.239);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_dg {
+	filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0));
+	position: absolute;
+	overflow: visible;
+	width: 756px;
+	height: 318px;
+	left: 0px;
+	top: 0px;
+}
+.Group_36_dh_Class {
+	position: absolute;
+	width: 691px;
+	height: 270px;
+	left: 18px;
+	top: 20px;
+	overflow: visible;
+}
+.Group_33_di_Class {
+	position: absolute;
+	width: 167.5px;
+	height: 167.496px;
+	left: 0px;
+	top: 64.752px;
+	overflow: visible;
+}
+.Path_9_dj_Class {
+	fill: rgba(235,235,235,1);
+}
+.Path_9_dj {
+	overflow: visible;
+	position: absolute;
+	width: 167.5px;
+	height: 167.496px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_10_dk_Class {
+	fill: rgba(213,213,213,1);
+}
+.Path_10_dk {
+	overflow: visible;
+	position: absolute;
+	width: 55px;
+	height: 55px;
+	left: 56.25px;
+	top: 48.975px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Tee_dl_Class {
+	left: 219px;
+	top: 59px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 41px;
+	color: rgba(15,0,0,0.769);
+}
+.ID45_REVIEWS_dm_Class {
+	opacity: 0.38;
+	left: 199px;
+	top: 162px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(15,0,0,1);
+}
+.fitseyotorgmailcom__dn_Class {
+	opacity: 0.38;
+	left: 37px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 244px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(15,0,0,0.769);
+}
+.Rectangle_2_do_Class {
+	fill: rgba(238,189,189,1);
+	stroke: rgba(238,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_do {
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	height: 46px;
+	left: 490px;
+	top: 1px;
+}
+.category__dp_Class {
+	left: 539px;
+	top: 4px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(235,84,84,1);
+}
+.Rectangle_3_dq_Class {
+	fill: rgba(239,230,230,1);
+}
+.Rectangle_3_dq {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	height: 64px;
+	left: 600px;
+	top: 194px;
+}
+.icons8_secured_letter_32px_dr_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 9px;
+	top: 4px;
+	overflow: visible;
+}
+.Status_ds_Class {
+	left: 543px;
+	top: 70px;
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(235,84,84,0.769);
+}
+.Group_35_dt_Class {
+	position: absolute;
+	width: 159px;
+	height: 31px;
+	left: 184px;
+	top: 122px;
+	overflow: visible;
+}
+.icons8_star_48px_du_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_50px_dv_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 128px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_48px_dw_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 34px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_48px_dx_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 64px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_48px_dy_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 94px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_pointer_50px_1_dz_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 294px;
+	top: 240px;
+	overflow: visible;
+}
+.icons8_phone_50px_d_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 103px;
+	top: 240px;
+	overflow: visible;
+}
+.ID091100000_d_Class {
+	opacity: 0.4;
+	left: 142px;
+	top: 237px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(12,0,0,0.769);
+}
+.Addis_Ababa_Ethiopia_d_Class {
+	opacity: 0.36;
+	left: 324px;
+	top: 242px;
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(12,0,0,0.769);
+}
+.icons8_right_arrow_50px_1_d_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 616px;
+	top: 207px;
+	overflow: visible;
+}
+.Group_42_Class {
+	position: absolute;
+	width: 738px;
+	height: 300px;
+	left: 1219px;
+	top: 700px;
+	overflow: visible;
+}
+.Group_34_d_Class {
+	position: absolute;
+	width: 738px;
+	height: 300px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_d_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,0.239);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_d {
+	filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0));
+	position: absolute;
+	overflow: visible;
+	width: 756px;
+	height: 318px;
+	left: 0px;
+	top: 0px;
+}
+.Group_36_d_Class {
+	position: absolute;
+	width: 691px;
+	height: 270px;
+	left: 18px;
+	top: 20px;
+	overflow: visible;
+}
+.Group_33_d_Class {
+	position: absolute;
+	width: 167.5px;
+	height: 167.496px;
+	left: 0px;
+	top: 64.752px;
+	overflow: visible;
+}
+.Path_9_d_Class {
+	fill: rgba(235,235,235,1);
+}
+.Path_9_d {
+	overflow: visible;
+	position: absolute;
+	width: 167.5px;
+	height: 167.496px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_10_ea_Class {
+	fill: rgba(213,213,213,1);
+}
+.Path_10_ea {
+	overflow: visible;
+	position: absolute;
+	width: 55px;
+	height: 55px;
+	left: 56.25px;
+	top: 48.975px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Tee_eb_Class {
+	left: 219px;
+	top: 59px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 41px;
+	color: rgba(15,0,0,0.769);
+}
+.ID45_REVIEWS_ec_Class {
+	opacity: 0.38;
+	left: 199px;
+	top: 162px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(15,0,0,1);
+}
+.fitseyotorgmailcom__ed_Class {
+	opacity: 0.38;
+	left: 37px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 244px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(15,0,0,0.769);
+}
+.Rectangle_2_ee_Class {
+	fill: rgba(238,189,189,1);
+	stroke: rgba(238,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_ee {
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	height: 46px;
+	left: 490px;
+	top: 1px;
+}
+.category__ef_Class {
+	left: 539px;
+	top: 4px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(235,84,84,1);
+}
+.Rectangle_3_eg_Class {
+	fill: rgba(239,230,230,1);
+}
+.Rectangle_3_eg {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	height: 64px;
+	left: 600px;
+	top: 194px;
+}
+.icons8_secured_letter_32px_eh_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 9px;
+	top: 4px;
+	overflow: visible;
+}
+.Status_ei_Class {
+	left: 543px;
+	top: 70px;
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(235,84,84,0.769);
+}
+.Group_35_ej_Class {
+	position: absolute;
+	width: 159px;
+	height: 31px;
+	left: 184px;
+	top: 122px;
+	overflow: visible;
+}
+.icons8_star_48px_ek_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_50px_el_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 128px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_48px_em_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 34px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_48px_en_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 64px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_star_48px_eo_Class {
+	position: absolute;
+	width: 31px;
+	height: 31px;
+	left: 94px;
+	top: 0px;
+	overflow: visible;
+}
+.icons8_pointer_50px_1_ep_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 294px;
+	top: 240px;
+	overflow: visible;
+}
+.icons8_phone_50px_eq_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 103px;
+	top: 240px;
+	overflow: visible;
+}
+.ID091100000_er_Class {
+	opacity: 0.4;
+	left: 142px;
+	top: 237px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(12,0,0,0.769);
+}
+.Addis_Ababa_Ethiopia_es_Class {
+	opacity: 0.36;
+	left: 324px;
+	top: 242px;
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(12,0,0,0.769);
+}
+.icons8_right_arrow_50px_1_et_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 616px;
+	top: 207px;
+	overflow: visible;
+}
+.Group_52_Class {
+	position: absolute;
+	width: 383px;
+	height: 668px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_4_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	filter: drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 401px;
+	height: 686px;
+	left: 0px;
+	top: 0px;
+}
+.Group_45_Class {
+	position: absolute;
+	width: 302px;
+	height: 95px;
+	left: 31px;
+	top: 33px;
+	overflow: visible;
+}
+.Group_44_Class {
+	position: absolute;
+	width: 302px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_43_Class {
+	position: absolute;
+	width: 302px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_5_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 302px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+}
+.Search_in_Class {
+	opacity: 0.43;
+	left: 37px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(12,0,0,0.769);
+}
+.Activities_Class {
+	left: 44px;
+	top: 32px;
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(12,0,0,0.769);
+}
+.Group_50_Class {
+	position: absolute;
+	width: 302px;
+	height: 95px;
+	left: 31px;
+	top: 293px;
+	overflow: visible;
+}
+.Group_46_Class {
+	position: absolute;
+	width: 302px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_44_e_Class {
+	position: absolute;
+	width: 302px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_43_e_Class {
+	position: absolute;
+	width: 302px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_5_e_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5_e {
+	position: absolute;
+	overflow: visible;
+	width: 302px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+}
+.Category_e_Class {
+	opacity: 0.43;
+	left: 37px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(12,0,0,0.769);
+}
+.Select_Category_Class {
+	left: 44px;
+	top: 32px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(12,0,0,0.769);
+}
+.Category_e_Class {
+	opacity: 0.43;
+	left: 37px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(12,0,0,0.769);
+}
+.Group_47_Class {
+	position: absolute;
+	width: 302px;
+	height: 95px;
+	left: 31px;
+	top: 163px;
+	overflow: visible;
+}
+.Group_44_fb_Class {
+	position: absolute;
+	width: 302px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_43_fc_Class {
+	position: absolute;
+	width: 302px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_5_fd_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5_fd {
+	position: absolute;
+	overflow: visible;
+	width: 302px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+}
+.Name_or_Brand_Class {
+	opacity: 0.43;
+	left: 37px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(12,0,0,0.769);
+}
+.Tee_ff_Class {
+	left: 44px;
+	top: 32px;
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(12,0,0,0.769);
+}
+.Group_48_Class {
+	position: absolute;
+	width: 302px;
+	height: 95px;
+	left: 31px;
+	top: 423px;
+	overflow: visible;
+}
+.Group_44_fh_Class {
+	position: absolute;
+	width: 302px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_43_fi_Class {
+	position: absolute;
+	width: 302px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_5_fj_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5_fj {
+	position: absolute;
+	overflow: visible;
+	width: 302px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+}
+.Location_Class {
+	opacity: 0.43;
+	left: 37px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(12,0,0,0.769);
+}
+.Group_51_Class {
+	position: absolute;
+	width: 302px;
+	height: 95px;
+	left: 31px;
+	top: 543px;
+	overflow: visible;
+}
+.Group_46_fm_Class {
+	position: absolute;
+	width: 302px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_44_fn_Class {
+	position: absolute;
+	width: 302px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_43_fo_Class {
+	position: absolute;
+	width: 302px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_5_fp_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5_fp {
+	position: absolute;
+	overflow: visible;
+	width: 302px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+}
+.Status_fq_Class {
+	opacity: 0.43;
+	left: 37px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(12,0,0,0.769);
+}
+.Select_Status_Class {
+	left: 44px;
+	top: 32px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(12,0,0,0.769);
+}
+.icons8_expand_arrow_50px_4_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 280px;
+	top: 66px;
+	overflow: visible;
+}
+.icons8_expand_arrow_50px_4_ft_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 280px;
+	top: 326px;
+	overflow: visible;
+}
+.icons8_expand_arrow_50px_4_fu_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 280px;
+	top: 576px;
+	overflow: visible;
+}
